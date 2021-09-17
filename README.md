@@ -16,5 +16,5 @@ The Sports Facility Reservation System consists of five highly integrated module
 
 This system can be used by staffs to perform multiple features such as keeping track of sports facilities booking status, maintenance status, payment status and etc.
 
-More information regarding the system is explained more thoroughly in attached report.
+More information regarding the system including the user manual is listed thoroughly in attached report.
 [RMM2G1_TARUCSportsFacilitiesReservationSystem.docx.pdf](https://github.com/hwaernie/TARUCSportsFacilities/files/7184908/RMM2G1_TARUCSportsFacilitiesReservationSystem.docx.pdf)
