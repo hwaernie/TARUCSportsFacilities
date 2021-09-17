@@ -13,3 +13,5 @@ The Sports Facility Reservation System consists of five highly integrated module
 - Facilities maintenance module
 - Usage module
 - Facilities reservation module
+
+This system can be used by staffs to perform multiple features such as keeping track of sports facilities booking status, maintenance status, payment status and etc.
